@@ -27,7 +27,7 @@ p{
 }
 
 .hero{
-	background-image: url(images/bread1.jpg);
+	background-image: url(bread1.jpg);
 	background-position: center center;
 	text-align: center;
 	padding-top: 10vh;
@@ -39,7 +39,7 @@ p{
 }
 
 .menu{
-	background-image: url(images/bread2.jpg);
+	background-image: url(bread2.jpg);
 	background-position: center center;
 	align-items: center;
 	overflow: hidden;
@@ -79,7 +79,7 @@ p{
 }
 
 .contact{
-	background-image: url(images/cafe.jpg);
+	background-image: url(cafe.jpg);
 	background-position: center center;
 	text-align: center;
 	padding-top: 10vh;
