@@ -27,7 +27,7 @@ p{
 }
 
 .hero{
-	background-image: url(https://github.com/yama-kaga/sample1/blob/main/bread1.jpg?raw=true);
+	background-image: url(https://github.com/yama-kaga/sample1/blob/main/bread1.jpg);
 	background-position: center center;
 	text-align: center;
 	padding-top: 10vh;
@@ -39,7 +39,7 @@ p{
 }
 
 .menu{
-	background-image: url(https://github.com/yama-kaga/sample1/blob/main/bread2.jpg?raw=true);
+	background-image: url(https://github.com/yama-kaga/sample1/blob/main/bread2.jpg);
 	background-position: center center;
 	align-items: center;
 	overflow: hidden;
@@ -79,7 +79,7 @@ p{
 }
 
 .contact{
-	background-image: url(https://github.com/yama-kaga/sample1/blob/main/cafe.jpg?raw=true);
+	background-image: url(https://github.com/yama-kaga/sample1/blob/main/cafe.jpg);
 	background-position: center center;
 	text-align: center;
 	padding-top: 10vh;
